@@ -12,6 +12,7 @@ Repo for TOM members dedicated for the Hacktober fest of 2018 (5th edition), thi
 * DOBALLAH Redz
 * Kolli Youcef Hamza
 * MKHTARI A. Islem (Wizard)
+* Stojanovski Petar
 * ADD your name here
 
 ## Projects: 
